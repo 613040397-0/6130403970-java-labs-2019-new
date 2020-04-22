@@ -1,0 +1,60 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "khamkae.suphissara.lab1.Hello"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prog2",
+            "request": "launch",
+            "mainClass": "khamkae.suphissara.lab1.Prog2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prog1",
+            "request": "launch",
+            "mainClass": "Prog1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prog1<khamkae_f0480cb6>",
+            "request": "launch",
+            "mainClass": "Prog1",
+            "projectName": "khamkae_f0480cb6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hello<khamkae_f0480cb6>",
+            "request": "launch",
+            "mainClass": "khamkae.suphissara.lab1.Hello",
+            "projectName": "khamkae_f0480cb6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prog2<khamkae_f0480cb6>",
+            "request": "launch",
+            "mainClass": "khamkae.suphissara.lab1.Prog2",
+            "projectName": "khamkae_f0480cb6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Welcome<khamkae_f0480cb6>",
+            "request": "launch",
+            "mainClass": "khamkae.suphissara.lab1.id6130403970.lab1.Welcome",
+            "projectName": "khamkae_f0480cb6"
+        }
+    ]
+}
